@@ -30,10 +30,6 @@ A fully interactive 2-player **Tic Tac Toe** web game built with **HTML, CSS, an
 2. Open `index.html` in any modern browser.
 3. Enter player names and start playing!
 
-## Gradient Description
-
-The body uses a diagonal linear gradient from **#1e3c72** to **#2a5298**, giving the game a sleek and modern look. This gradient enhances readability and adds visual appeal.
-
 ## Game Logic Summary
 
 - Each player takes turns marking a box with either `X` or `O`.
